@@ -51,6 +51,8 @@ public class LoginTest {
 	}
 	
 	/*
+	 * 
+	 * 
 	 * git init
 	 * git add fname.txt or *.txt
 	 * git status
